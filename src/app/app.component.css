@@ -1,7 +1,4 @@
-div {
-  text-align: center;
-}
-
-.colorAdmin {
-  color: red;
+.hightLightFontsize{
+  background-color: yellow;
+  font-size: 12px;
 }
